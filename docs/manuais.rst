@@ -1,5 +1,5 @@
-Manuais
-=======
+Manual
+======
 
 Pad de desenvolvimento de instruções, materiais, etc.
 

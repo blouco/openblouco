@@ -11,7 +11,7 @@ Documentação do OpenBlouco
    :caption: Conteúdo:
 
    sobre.rst
-   manual.rst
+   manuais.rst
    roteiro.rst
 
 
