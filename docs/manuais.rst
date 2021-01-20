@@ -1,13 +1,10 @@
-Manual
-======
+Manuais
+=======
 
-Pad de desenvolvimento de instruções, materiais, etc.
+Pad de desenvolvimento de instruções, materiais, etc: https://antonieta.vedetas.org/p/r.88548cb2d90791170e2f30d0b228829c
 
-.. raw:: html
 
-    <iframe name="embed_readonly" src="https://antonieta.vedetas.org/p/r.88548cb2d90791170e2f30d0b228829c?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
-
-Grafo sendo desenvolvido e salvo no `GraphCommons`_
+Grafo sendo desenvolvido no `GraphCommons`_:
 
 .. _GraphCommons: https://graphcommons.com
 
