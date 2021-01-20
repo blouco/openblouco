@@ -179,18 +179,27 @@ A base de início de um Estandarte é uma "senha" de N (a definir) palavras esco
 
 .. _`lista Diceware`: https://github.com/ulif/diceware/blob/master/diceware/wordlists/wordlist_pt-br.txt
 
+
 - O nome do pad do próximo Estandarte
 - O nome da stream de transmissão da Banda
 - O nome da sala de Jitsi do Desfile
 - Uma arte composta de "visual hashes" / "identicons" relacionados à frase, a imagem-símbolo do próximo Estandarte
 
+.. figure:: images/estandarte.png
+  :width: 300
+  :align: center
+
+  Composição de Robohash.org, arrival_logograms e Vizhash a partir do texto "blouco"
+
 O método mais prático para sortear as palavras é colar a lista no serviço `Random.org Lists`_, e configurar as opções avançadas para utilizar o conteúdo do Hash como semente (*seed*) do algoritmo de sorteio.
 
 .. _Random.org Lists: https://www.random.org/lists/?mode=advanced
 
-
-
 Após sortear as palavras, a Porta-Estandarte constrói o novo Estandarte e os outros componentes iniciais necessários do Blouco, e transmite o link somente-leitura do Cordão para todes.
+
+.. image:: images/estandarte_pad.png
+  :width: 600
+  :align: center
 
 
 
