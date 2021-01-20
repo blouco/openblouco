@@ -1,0 +1,112 @@
+Roteiro
+=======
+
+Feito do ponto de vista da Incauta; elementos são mencionados conforme ela toma contato com eles.
+
+
+Diagrama sendo desenvolvido no `diagrams.net`_
+e salvos no `repositório git`_.:
+
+.. _diagrams.net: https://diagrams.net
+.. _repositório git: https://github.com/blouco/openblouco
+
+.. image:: https://github.com/blouco/openblouco/blob/main/blouco.png?raw=true
+  :width: 400
+  :align: center
+
+Pelo Mundo
+----------
+
+Incauta navega pelas redes
+
+Link Divulgado
+--------------
+
+
+Link aponta o Cordão. 
+
+
+
+Abre Cordão
+-----------
+
+O Cordão é um site simples em HTML+CSS+JS, onde há:
+
+- um web player para ouvir a Banda
+- um etherpad somente leitura, contendo:
+    - Calorosas boas vindas
+    - Introdução à ideia do Blouco
+    - Link para entrar no Papo (sala de IRC)
+
+A Banda é um streaming de áudio, com gestão centralizada em uma Maestra, mas podendo ser distribuída em diversas fontes alternadas, misturadas, ficando à critério e capacidade de cada Maestra.  É organizada através de seu próprio pad.
+
+A Incauta pode entrar no Papo através do link.
+
+Entra no Papo
+-------------
+
+O Papo é uma sala de IRC, ou outra plataforma *chat* onde as pessoas possam escolher nicknames e haja mecanismos de moderação.
+
+A Incauta pode tornar-se Cordão através de um mecanismo ainda a ser definido.
+
+Torna-se Cordão
+---------------
+
+Um canal separado da plataforma utilizada para o Papo será destinada para quem voluntariar-se como Cordão, tendo a tarefa de ajudar a manter o ambiente em segurança e também de servir de "membrana" para a Banda e o Desfile, com algum mecanismo simples de convite ou veto (e.g. 2 pessoas precisam autorizar), ou critério colaborativo.
+
+Dentro do Desfile
+-----------------
+
+O Desfile é uma sala de Jitsi, onde as pessoas podem interagir por vídeo e/ou áudio, em paralelo à música da Banda.
+
+Suas moderação a princípio é autogerida, mas deve haver protocolos simples de emergência em caso de ataques.
+
+
+
+
+Vendo o Estandarte
+------------------
+
+O Estandarte é a central de organização e planejamento de todo o Blouco, de onde saem os links de organização da Banda, do Cordão.  O link de acesso somente-leitura é colado periodicamente no chat do Desfile.
+
+Ele é acessado em modo somente-leitura pela Banda e pelo Desfile e ajuda a organizá-los, e acessível com escrita pela Porta-Estandarte.
+
+As funções do papel de Porta-estandarte são:
+
+- Manter o pad Estandarte atualizado
+- Fazer a costura e assegurar que tudo vai bem entre os diferentes pads e salas 
+- Gerar informações para a criação de um novo Estandarte 
+
+
+Sendo Estandarte
+----------------
+
+
+O acesso com escrita do pad do Estandarte é liberado para todos do Cordão.  Após um tempo de interação com o pad, seu conteúdo é passado pela Porta-Estandarte através de um Hash MD5, cujo conteúdo será usado como semente para o sorteio das palavras de geração do próximo Estandarte.
+
+Gerando novo Estandarte
+-----------------------
+
+A base de início de um Estandarte é uma "senha" de N (a definir) palavras escolhidas da `lista Diceware`. Seus componentes são utilizados para criar:
+
+.. _`lista Diceware`: https://github.com/ulif/diceware/blob/master/diceware/wordlists/wordlist_pt-br.txt
+
+- O nome do pad do próximo Estandarte
+- O nome da stream de transmissão da Banda
+- O nome da sala de Jitsi do Desfile
+- Uma arte composta de "visual hashes" / "identicons" relacionados à frase, a imagem-símbolo do próximo Estandarte
+
+O método mais prático para sortear as palavras é colar a lista no serviço `Random.org Lists`_, e configurar as opções avançadas para utilizar o conteúdo do Hash como semente (*seed*) do algoritmo de sorteio.
+
+.. _Random.org Lists: https://www.random.org/lists/?mode=advanced
+
+
+
+Após sortear as palavras, a Porta-Estandarte constrói o novo Estandarte e os outros componentes iniciais necessários do Blouco, e transmite o link somente-leitura do Cordão para todes.
+
+
+
+Retorno ao Mundo
+----------------
+
+Incauta volta para as redes, falando sobre o Blouco e anunciando o link do próximo Estandarte.

@@ -12,6 +12,7 @@ Documentação do OpenBlouco
 
    sobre.rst
    manual.rst
+   roteiro.rst
 
 
 .. image:: images/chamado.png
