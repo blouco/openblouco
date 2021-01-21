@@ -13,7 +13,7 @@ e salvos no `repositório git`_.:
 .. _diagrams.net: https://diagrams.net
 .. _repositório git: https://github.com/blouco/openblouco
 
-.. image:: images/diagrama.png
+.. image:: diagramas/blouco.png
   :width: 400
   :align: center
 
