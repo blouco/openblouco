@@ -26,7 +26,7 @@ Pelo Mundo
 ----------
 
 .. image:: images/ox/cow01.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 
@@ -44,7 +44,7 @@ Link Divulgado
 --------------
 
 .. image:: images/ox/cow02.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 
@@ -64,7 +64,7 @@ Aproxima-se do Cordão
 ---------------------
 
 .. image:: images/ox/cow03.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 O Cordão é um site simples em HTML+CSS+JS, onde há:
@@ -91,7 +91,7 @@ Entra no Papo
 -------------
 
 .. image:: images/ox/cow04.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 
@@ -110,7 +110,7 @@ Torna-se Cordão
 ---------------
 
 .. image:: images/ox/cow05.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 
@@ -127,7 +127,7 @@ Dentro do Desfile
 -----------------
 
 .. image:: images/ox/cow06.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 
@@ -147,7 +147,7 @@ Vendo o Estandarte
 ------------------
 
 .. image:: images/ox/cow07.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 
@@ -173,7 +173,7 @@ Sendo Estandarte
 ----------------
 
 .. image:: images/ox/cow08.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 O acesso com escrita do pad do Estandarte é liberado para todos do Cordão.  Após um tempo de interação com o pad, seu conteúdo é passado pela Porta-Estandarte através de um Hash MD5, cujo conteúdo será usado como semente para o sorteio das palavras de geração do próximo Estandarte.
@@ -189,7 +189,7 @@ Gerando novo Estandarte
 -----------------------
 
 .. image:: images/ox/cow09.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 
@@ -230,7 +230,7 @@ Retorno ao Mundo
 ----------------
 
 .. image:: images/ox/cow10.jpg
-  :width: 100
+  :width: 150
   :align: center
 
 
