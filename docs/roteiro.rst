@@ -223,7 +223,7 @@ Após sortear as palavras, a Porta-Estandarte constrói o novo Estandarte e os o
   :width: 130
   :align: right
 
-.. youtube:: aLUqvPKG6bU
+.. youtube:: Rp7yR8g4Jb8
   :width: 420
 
 Retorno ao Mundo
@@ -241,5 +241,5 @@ Incauta volta para as redes, falando sobre o Blouco e anunciando o link do próx
   :width: 130
   :align: right
 
-.. youtube:: Rp7yR8g4Jb8
+.. youtube:: aLUqvPKG6bU
   :width: 420
