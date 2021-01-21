@@ -25,10 +25,6 @@ Imagens: `Ten Ox-herding Pictures`_, por Yokō Tatsuhiko; `CBD Tarot de Marseill
 Pelo Mundo
 ----------
 
-.. image:: images/tarot/a21.jpg
-  :width: 70
-  :align: right
-
 .. image:: images/ox/cow01.jpg
   :width: 100
   :align: center
@@ -36,12 +32,18 @@ Pelo Mundo
 
 Incauta navega pelas redes
 
+
+-----
+
+.. image:: images/tarot/a21.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: uHPNehDU0UE
+  :width: 420
+
 Link Divulgado
 --------------
-
-.. image:: images/tarot/a22.jpg
-  :width: 70
-  :align: right
 
 .. image:: images/ox/cow02.jpg
   :width: 100
@@ -49,16 +51,22 @@ Link Divulgado
 
 
 
+
 Link aponta o Cordão. 
 
 
+-----
 
-Abre Cordão
------------
-
-.. image:: images/tarot/a02.jpg
-  :width: 70
+.. image:: images/tarot/a22.jpg
+  :width: 130
   :align: right
+
+.. youtube:: wwupfkJubNk
+  :width: 420
+
+
+Aproxima-se do Cordão
+---------------------
 
 .. image:: images/ox/cow03.jpg
   :width: 100
@@ -76,12 +84,16 @@ A Banda é um streaming de áudio, com gestão centralizada em uma Maestra, mas 
 
 A Incauta pode entrar no Papo através do link.
 
+.. image:: images/tarot/a02.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: 1hezI7JzyH0
+  :width: 420
+
+
 Entra no Papo
 -------------
-
-.. image:: images/tarot/a18.jpg
-  :width: 70
-  :align: right
 
 .. image:: images/ox/cow04.jpg
   :width: 100
@@ -92,12 +104,17 @@ O Papo é uma sala de IRC, ou outra plataforma *chat* onde as pessoas possam esc
 
 A Incauta pode tornar-se Cordão através de um mecanismo ainda a ser definido.
 
+-----
+
+.. image:: images/tarot/a18.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: T85tj-5ed6s
+  :width: 420
+
 Torna-se Cordão
 ---------------
-
-.. image:: images/tarot/a06.jpg
-  :width: 70
-  :align: right
 
 .. image:: images/ox/cow05.jpg
   :width: 100
@@ -106,12 +123,18 @@ Torna-se Cordão
 
 Um canal separado da plataforma utilizada para o Papo será destinada para quem voluntariar-se como Cordão, tendo a tarefa de ajudar a manter o ambiente em segurança e também de servir de "membrana" para a Banda e o Desfile, com algum mecanismo simples de convite ou veto (e.g. 2 pessoas precisam autorizar), ou critério colaborativo.
 
+
+-----
+
+.. image:: images/tarot/a06.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: -QPGp7tih_U
+  :width: 420
+
 Dentro do Desfile
 -----------------
-
-.. image:: images/tarot/a11.jpg
-  :width: 70
-  :align: right
 
 .. image:: images/ox/cow06.jpg
   :width: 100
@@ -123,14 +146,18 @@ O Desfile é uma sala de Jitsi, onde as pessoas podem interagir por vídeo e/ou 
 Suas moderação a princípio é autogerida, mas deve haver protocolos simples de emergência em caso de ataques.
 
 
+-----
+
+.. image:: images/tarot/a11.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: ZS_-t9TBoqs
+  :width: 420
 
 
 Vendo o Estandarte
 ------------------
-
-.. image:: images/tarot/a04.jpg
-  :width: 70
-  :align: right
 
 .. image:: images/ox/cow07.jpg
   :width: 100
@@ -147,28 +174,36 @@ As funções do papel de Porta-estandarte são:
 - Fazer a costura e assegurar que tudo vai bem entre os diferentes pads e salas 
 - Gerar informações para a criação de um novo Estandarte 
 
+-----
+
+.. image:: images/tarot/a04.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: CqKmB4Bt1Ks
+  :width: 420
+
 
 Sendo Estandarte
 ----------------
-
-.. image:: images/tarot/a16.jpg
-  :width: 70
-  :align: right
 
 .. image:: images/ox/cow08.jpg
   :width: 100
   :align: center
 
-
-
 O acesso com escrita do pad do Estandarte é liberado para todos do Cordão.  Após um tempo de interação com o pad, seu conteúdo é passado pela Porta-Estandarte através de um Hash MD5, cujo conteúdo será usado como semente para o sorteio das palavras de geração do próximo Estandarte.
+
+-----
+
+.. image:: images/tarot/a16.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: G1yukIKhzw0
+  :width: 420
 
 Gerando novo Estandarte
 -----------------------
-
-.. image:: images/tarot/a03.jpg
-  :width: 70
-  :align: right
 
 .. image:: images/ox/cow09.jpg
   :width: 100
@@ -201,14 +236,17 @@ Após sortear as palavras, a Porta-Estandarte constrói o novo Estandarte e os o
   :width: 600
   :align: center
 
+-----
 
+.. image:: images/tarot/a03.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: aLUqvPKG6bU
+  :width: 420
 
 Retorno ao Mundo
 ----------------
-
-.. image:: images/tarot/a19.jpg
-  :width: 70
-  :align: right
 
 .. image:: images/ox/cow10.jpg
   :width: 100
@@ -217,3 +255,12 @@ Retorno ao Mundo
 
 Incauta volta para as redes, falando sobre o Blouco e anunciando o link do próximo Estandarte.
 
+-----
+
+
+.. image:: images/tarot/a19.jpg
+  :width: 130
+  :align: right
+
+.. youtube:: Rp7yR8g4Jb8
+  :width: 420
