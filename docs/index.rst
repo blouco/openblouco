@@ -7,12 +7,12 @@ Documentação do OpenBlouco
 ==========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Conteúdo:
 
    sobre.rst
-   manuais.rst
-   roteiro.rst
+   criando.rst
+   ascendendo.rst
 
 
 .. image:: images/chamado.png
