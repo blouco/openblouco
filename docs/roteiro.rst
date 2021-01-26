@@ -50,7 +50,7 @@ Link Divulgado
 
 
 
-Link aponta o Cordão. 
+Link aponta a Rua.
 
 .. image:: images/tarot/a22.jpg
   :width: 130
@@ -60,14 +60,16 @@ Link aponta o Cordão.
   :width: 420
 
 
-Aproxima-se do Cordão
----------------------
+Aproxima-se da Rua
+------------------
 
 .. image:: images/ox/cow03.jpg
   :width: 150
   :align: center
 
-O Cordão é um site simples em HTML+CSS+JS, onde há:
+A Rua é um site simples, onde há:
+
+- um web player para transmitir a Banda
 
 - um web player para ouvir a Banda
 - um etherpad somente leitura, contendo:
