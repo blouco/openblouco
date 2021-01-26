@@ -1,29 +1,59 @@
 Sobre o OpenBlouco
 ==================
 
-    "Por aqui o Carnaval é gira de caboclo. Os entrudos, corsos, batalhas de confetes e flores, a festa da Penha, as rodas de capoeira, os bailes, blocos, rodas de pernada, ranchos, cordões, grandes sociedades, bailes de mascarados e escolas de samba foram os espaços de invenção da vida no precário e viração da morte em alegria e arte.
+O OpenBlouco é um ~padrão~ aberto e colaborativo para a construção de *bloucos*, uma adaptação livre das dinâmicas de blocos de carnaval autônomos para as ruas da Web.
 
-    A festa é espaço de subversão de cidadanias negadas. Inventou-se na rua a aldeia roubada nos gabinetes. Disciplinar a rua, ordenar o bloco, domesticar os corpos, sequestrar a alegria e enquadrar a festa, por sua vez, foi a estratégia dos senhores do poder na maior parte do tempo. O Carnaval é seminal para que se entenda o Brasil."
+O `primeiro Blouco`_ sairá no dia 14 de fevereiro, que seria o Carnaval
+2021 se não fosse a bact... as restrições sociais da COVID-19.
 
-    (Luiz Antonio Simas: Todas as vezes que tentaram proibir ou adiar a festa, o fuzuê foi ainda maior - O GLOBO Cultura)
+.. _primeiro Blouco: https://blouco.neocities.org
+
+
+Queremos chegar em uma colagem de plataformas Web que permita criar uma
+coalizão descentralizada de foliãs guiadas através da música e da visão
+através das ruas da Web e da Internet -- espaços públicos de
+socialização pouco explorados em tempos de jardins murados das redes
+sociais.
+
+Estamos aqui nesta documentação criando componentes para materializar todos os seguintes ambientes e seus protocolos internos de uso e passagem, com as prioridades de ter baixo custo (serviços oferecidos gratuitamente, ferramentas livres e de código aberto, etc), fácil implementação e resiliência quanto ao uso por pessoas novatas, bêbadas ou mucho lokas de forma geral.
+
+
+Ambientes e funções
+-------------------
+
+.. image:: https://github.com/blouco/openblouco/blob/main/docs/diagramas/geral.png?raw=true
+  :align: center
+
+
+A **Rua**, ambiente de chegada das **Incautas** no blouco, é uma página web
+simples HTML+CSS que consolide, através de *embeds*, um documento de
+boas vindas, a transmissão da Banda e o acesso ao Papo.
+
+O **Papo** é o ambiente público de *chat*, onde as **Foliãs** podem assumir qualquer
+apelido e interagir ao som da Banda. Ele é o ambiente inicial de contato
+do público externo com quem está dentro do blouco, e é habitado pelas
+Incautas que se aproximam do blouco pela Rua e pelas **Cordões**, que
+fazem a contenção da Rua e o intermédio entre ela e os outros
+ambientes do blouco.
+
+A **Banda**, um *streaming* de áudio e vídeo, é gerida coletivamente pelas **Artistas** em um
+ambiente próprio, e transmite a música e o vídeo guias do blouco.
+
+O **Desfile**, uma sala de videoconferência, congrega as **Passistas** quem quer dançar junto
+e ficar o mais coladinho possível virtualmente.
+
+O **Estandarte**, um documento colaborativo, é o ponto de partida e
+focal de organização do blouco; é empunhado por **Porta-estandartes**.
+
+
+Mapa em Rede
+------------
+
+Grafo sendo desenvolvido no `GraphCommons`_:
+
+.. _GraphCommons: https://graphcommons.com
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/TlKk2ZVNsIc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
+    <iframe src="https://graphcommons.com/graphs/6ce351e8-4382-46b7-abdc-5a247c13d9f7/embed" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;width:1px;min-width:100%;height:400px;min-height:400px;" width="100%" height="400" allowfullscreen></iframe>
 
-
-O Carnaval é inadiável. Vocês já estão sentindo. Em tempos sindêmicos é urgente explorarmos novas maneiras de o vivermos em distanciamento social.
-
-Carnaval não é bagunça; tem um jeito, tem um método. O que nós vemos nas avenidas e nas ruas não é o caos; é conhecimento ancestral, acumulado pela verdadeira elite cultural do nosso país. Os tambores falam e o faiscar da purpurina é somente o reflexo da luz que emana das Escolas, dos blocos, dos furduncinhos.
-
-Em todo Boi, Afoxé, Fanfarra, presta-se reverência e evoca-se a memória de cada insurreição, cada quilombo, cada roda de samba, cada bailão; se você se entregar para a folia e respeitar as entidades que ali trabalham, é possível ouvir no coração da bateria o canto ensurdecedor do povo desta terra.
-
-Abram alas ou misturem-se no bonde, que o Blouco vai passar. Ele não está manifestado, mas já escutamos os sinais. Os Mestres Secretos da Folia já se estão se movimentando para que o bloco seja posto na rua, e que com a pureza das Crianças e a benção dos Orixás se multiplique e banhe as ruas das Redes com o nosso Axé.
-
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/KQACWEfHPLc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
