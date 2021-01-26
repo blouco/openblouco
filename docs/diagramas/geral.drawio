@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T23:24:34.770Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="0_QChpBp884a5d21yRzo" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T23:37:16.768Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="_ZdRHCupTQ4niqrAcwVa" version="14.2.6" type="github">
   <diagram id="77kT6zVT2I76sPMI2rvQ" name="Page-1">
-    <mxGraphModel dx="723" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,8 @@
             <mxPoint x="260" y="500" as="sourcePoint" />
             <mxPoint x="350" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="500" />
+              <mxPoint x="260" y="510" />
+              <mxPoint x="240" y="510" />
               <mxPoint x="240" y="460" />
             </Array>
           </mxGeometry>
@@ -116,7 +117,7 @@
         <mxCell id="hHj4Qn9kM2iFFlMbxZKz-37" value="modera" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="hHj4Qn9kM2iFFlMbxZKz-18" target="hHj4Qn9kM2iFFlMbxZKz-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="328" y="500" />
+              <mxPoint x="328" y="510" />
               <mxPoint x="328" y="565" />
             </Array>
           </mxGeometry>
@@ -125,14 +126,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="500" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="270" y="500" />
-              <mxPoint x="240" y="500" />
-              <mxPoint x="240" y="385" />
+              <mxPoint x="260" y="510" />
+              <mxPoint x="210" y="510" />
+              <mxPoint x="210" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hHj4Qn9kM2iFFlMbxZKz-18" value="Cordão" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="260" y="480" width="30" height="60" as="geometry" />
+          <mxGeometry x="260" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHj4Qn9kM2iFFlMbxZKz-25" value="toca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hHj4Qn9kM2iFFlMbxZKz-19">
           <mxGeometry relative="1" as="geometry">
@@ -163,15 +164,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hHj4Qn9kM2iFFlMbxZKz-23" value="entra" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hHj4Qn9kM2iFFlMbxZKz-20" target="hHj4Qn9kM2iFFlMbxZKz-7">
+        <mxCell id="hHj4Qn9kM2iFFlMbxZKz-23" value="entra" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="hHj4Qn9kM2iFFlMbxZKz-47">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="620" />
-              <mxPoint x="680" y="640" />
+              <mxPoint x="300" y="640" />
+              <mxPoint x="300" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hHj4Qn9kM2iFFlMbxZKz-20" value="Incauta / Foliã" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="hHj4Qn9kM2iFFlMbxZKz-49" value="torna-se" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="hHj4Qn9kM2iFFlMbxZKz-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="590" />
+              <mxPoint x="650" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHj4Qn9kM2iFFlMbxZKz-20" value="Foliã" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="590" y="560" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHj4Qn9kM2iFFlMbxZKz-45" value="" style="endArrow=none;dashed=1;html=1;fontSize=10;" edge="1" parent="1">
@@ -179,6 +190,20 @@
             <mxPoint x="180" y="510.73" as="sourcePoint" />
             <mxPoint x="710" y="510.73" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hHj4Qn9kM2iFFlMbxZKz-48" value="torna-se" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" target="hHj4Qn9kM2iFFlMbxZKz-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="620" as="sourcePoint" />
+            <mxPoint x="570" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="597" />
+              <mxPoint x="560" y="597" />
+              <mxPoint x="560" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHj4Qn9kM2iFFlMbxZKz-47" value="Incauta" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
