@@ -1,11 +1,21 @@
-Roteiro
-=======
+Ascendendo
+==========
 
 Introdução
 ----------
 
 Feito do ponto de vista da Incauta; elementos são mencionados conforme ela toma contato com eles.
 
+.. image:: https://github.com/blouco/openblouco/blob/main/docs/diagramas/blouco.png?raw=true
+  :width: 400px
+  :align: center
+
+
+Diagrama sendo desenvolvido no `diagrams.net`_
+e salvos no `repositório git`_.
+
+.. _diagrams.net: https://diagrams.net
+.. _repositório git: https://github.com/blouco/openblouco
 
 Imagens: `Ten Ox-herding Pictures`_, por Yokō Tatsuhiko; `CBD Tarot de Marseille`_, por Yoav Ben-Dov
 
