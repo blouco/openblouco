@@ -61,15 +61,14 @@ A Rua é um site simples, onde há:
 
 - um web player para transmitir a Banda
 
-- um web player para ouvir a Banda
-- um etherpad somente leitura, contendo:
+- um documento somente leitura, contendo:
     - Calorosas boas vindas
     - Introdução à ideia do Blouco
-    - Link para entrar no Papo (sala de IRC)
+    - Link para entrar no Papo
 
-A Banda é um streaming de áudio, com gestão centralizada em uma Maestra, mas podendo ser distribuída em diversas fontes alternadas, misturadas, ficando à critério e capacidade de cada Maestra.  É organizada através de seu próprio pad.
+- se possível, um embed do Papo no próprio site para facilitar o acesso.
 
-A Incauta pode entrar no Papo através do link.
+A Banda é um streaming audiovisual, com gestão centralizada em uma pessoa, mas podendo ser distribuída em diversas fontes alternadas, coordenadas por uma ou mais Mixers. É organizada através de seu próprio ambiente.
 
 .. image:: images/tarot/a02.jpg
   :width: 130
@@ -87,7 +86,7 @@ Entra no Papo
   :align: center
 
 
-O Papo é uma sala de IRC, ou outra plataforma *chat* onde as pessoas possam escolher nicknames e haja mecanismos de moderação.
+O Papo é uma plataforma *chat* onde as pessoas possam escolher apelidos e haja mecanismos de moderação, feita coletivamente por Cordões.
 
 A Incauta pode tornar-se Cordão através de um mecanismo ainda a ser definido.
 
@@ -123,7 +122,7 @@ Dentro do Desfile
   :align: center
 
 
-O Desfile é uma sala de Jitsi, onde as pessoas podem interagir por vídeo e/ou áudio, em paralelo à música da Banda.
+O Desfile é uma sala de videoconferência, onde as pessoas podem interagir por vídeo e/ou áudio, em paralelo à música da Banda.
 
 Suas moderação a princípio é autogerida, mas deve haver protocolos simples de emergência em caso de ataques.
 
@@ -149,8 +148,8 @@ Ele é acessado em modo somente-leitura pela Banda e pelo Desfile e ajuda a orga
 
 As funções do papel de Porta-estandarte são:
 
-- Manter o pad Estandarte atualizado
-- Fazer a costura e assegurar que tudo vai bem entre os diferentes pads e salas 
+- Manter o documento Estandarte atualizado
+- Fazer a costura e assegurar que tudo vai bem entre os diferentes documentos e salas 
 - Gerar informações para a criação de um novo Estandarte 
 
 .. image:: images/tarot/a04.jpg
@@ -168,7 +167,7 @@ Sendo Estandarte
   :width: 150
   :align: center
 
-O acesso com escrita do pad do Estandarte é liberado para todos do Cordão.  Após um tempo de interação com o pad, seu conteúdo é passado pela Porta-Estandarte através de um Hash MD5, cujo conteúdo será usado como semente para o sorteio das palavras de geração do próximo Estandarte.
+O acesso com escrita do documento do Estandarte é liberado para todos do Cordão.  Após um tempo de interação com o documento, seu conteúdo é passado pela Porta-Estandarte através de um Hash MD5, cujo conteúdo será usado como semente para o sorteio das palavras de geração do próximo Estandarte.
 
 .. image:: images/tarot/a16.jpg
   :width: 130
@@ -190,9 +189,9 @@ A base de início de um Estandarte é uma "senha" de N (a definir) palavras esco
 .. _`lista Diceware`: https://github.com/ulif/diceware/blob/master/diceware/wordlists/wordlist_pt-br.txt
 
 
-- O nome do pad do próximo Estandarte
+- O nome do documento do próximo Estandarte
 - O nome da stream de transmissão da Banda
-- O nome da sala de Jitsi do Desfile
+- O nome do ambiente do Desfile
 - Uma arte composta de "visual hashes" / "identicons" relacionados à frase, a imagem-símbolo do próximo Estandarte
 
 .. figure:: images/estandarte.png
