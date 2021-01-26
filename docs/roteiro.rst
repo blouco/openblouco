@@ -7,16 +7,6 @@ Introdução
 Feito do ponto de vista da Incauta; elementos são mencionados conforme ela toma contato com eles.
 
 
-Diagrama sendo desenvolvido no `diagrams.net`_
-e salvos no `repositório git`_.:
-
-.. _diagrams.net: https://diagrams.net
-.. _repositório git: https://github.com/blouco/openblouco
-
-.. image:: diagramas/blouco.png
-  :width: 400
-  :align: center
-
 Imagens: `Ten Ox-herding Pictures`_, por Yokō Tatsuhiko; `CBD Tarot de Marseille`_, por Yoav Ben-Dov
 
 .. _Ten Ox-herding Pictures: https://terebess.hu/english/oxherding.html
