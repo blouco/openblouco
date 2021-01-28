@@ -21,6 +21,9 @@ Estamos aqui nesta documentação criando componentes para materializar todos os
 Ambientes e funções
 -------------------
 
+.. image:: https://github.com/blouco/openblouco/blob/main/docs/diagramas/chave.png?raw=true
+  :align: center
+
 .. image:: https://github.com/blouco/openblouco/blob/main/docs/diagramas/geral.png?raw=true
   :align: center
 
