@@ -1,3 +1,5 @@
+.. _Sobre o OpenBlouco:
+
 Sobre o OpenBlouco
 ==================
 

@@ -11,11 +11,18 @@ Documentação do OpenBlouco
    :caption: Conteúdo:
 
    sobre.rst
-   criando.rst
    ascendendo.rst
+   rua.rst
+   papo.rst
+   trio.rst
+   bondes.rst
+   estandarte.rst
+   criando.rst
+   hash-folia.rst
+   blouco.rst
    porta-estandarte.rst
    puxadoras.rst
    artistas.rst
    passistas.rst
-   cordões.rst
+   cordoes.rst
    incautas.rst
