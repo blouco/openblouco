@@ -1,4 +1,0 @@
-.. _Artistas:
-
-Artistas
-========

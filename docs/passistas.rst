@@ -1,4 +1,0 @@
-.. _Passistas:
-
-Passistas
-=========

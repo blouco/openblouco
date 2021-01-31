@@ -1,6 +1,0 @@
-.. _Estandarte:
-
-Estandarte
-==========
-
-

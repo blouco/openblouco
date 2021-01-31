@@ -55,7 +55,7 @@ exclude_patterns = []
 html_theme = 'alabaster'
 
 html_theme_options = {
-    'logo': 'https://github.com/blouco/hash-folia/raw/main/exemplo-blouco.png',
+    'logo': 'logo.png',
     'github_user': 'blouco',
     'github_repo': 'openblouco',
 }

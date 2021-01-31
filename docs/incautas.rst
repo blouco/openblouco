@@ -1,4 +1,0 @@
-.. _Incautas:
-
-Incautas
-========
