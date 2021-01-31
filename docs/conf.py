@@ -54,6 +54,12 @@ exclude_patterns = []
 #
 html_theme = 'alabaster'
 
+html_theme_options = {
+    'logo': 'https://github.com/blouco/hash-folia/raw/main/exemplo-blouco.png',
+    'github_user': 'blouco',
+    'github_repo': 'openblouco',
+}
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
