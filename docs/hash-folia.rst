@@ -3,10 +3,6 @@
 HashFolia
 =========
 
-.. image:: https://github.com/blouco/hash-folia/raw/main/exemplo-blouco.png
-   :width: 300px
-   :align: center
-
 O HashFolia é um *webapp* que transforma um texto-base em uma Chave para a criação de um Estandarte, que serve de início para um blouco e também proporciona sua movimentação através das ruas/ambientes conforme a :ref:`Porta-estandarte` e as :ref:`Puxadoras` julguem necessário.
 
 Este projeto está sendo desenvolvido em um `repositório Github <https://github.com/blouco/hash-folia/>`_.
@@ -27,7 +23,7 @@ Texto -> Hash -> Estandarte
 
 Um texto-base é usado como "semente" (*entropy seed*) para a geração de:
 
-- Uma composição de *[visual hashes](https://github.com/drhus/awesome-identicons)*. Os hashes utilizados no momento são o `Robohash <https://robohash.org/>`_, o `Vizhash <https://github.com/sebsauvage/VizHash>`_ e o `arrival_logograms <https://github.com/FlxB2/arrival_logograms>`_).
+- Uma composição de `visual hashes <https://github.com/drhus/awesome-identicons>`_. Os *hashes* utilizados no momento são o `Robohash <https://robohash.org/>`_, o `Vizhash <https://github.com/sebsauvage/VizHash>`_ e o `arrival_logograms <https://github.com/FlxB2/arrival_logograms>`_).
 
 - Uma tiragem de tarô, no momento feita com um arcano maior e um menor do Tarô de Marsella.
 

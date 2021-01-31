@@ -7,22 +7,10 @@ Documentação do OpenBlouco
 ==========================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Conteúdo:
 
    sobre.rst
-   ascendendo.rst
-   rua.rst
-   papo.rst
-   trio.rst
-   bondes.rst
-   estandarte.rst
-   criando.rst
+   ambientes.rst
+   funcoes.rst
    hash-folia.rst
-   blouco.rst
-   porta-estandarte.rst
-   puxadoras.rst
-   artistas.rst
-   passistas.rst
-   cordoes.rst
-   incautas.rst
