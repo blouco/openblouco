@@ -69,7 +69,7 @@ Aproxima-se da Rua
 
 A Rua é um site simples, onde há:
 
-- um web player para transmitir a Banda
+- um web player para transmitir o Trio
 
 - um documento somente leitura, contendo:
     - Calorosas boas vindas
@@ -78,7 +78,7 @@ A Rua é um site simples, onde há:
 
 - se possível, um embed do Papo no próprio site para facilitar o acesso.
 
-A Banda é um streaming audiovisual, com gestão centralizada em uma pessoa, mas podendo ser distribuída em diversas fontes alternadas, coordenadas por uma ou mais Mixers. É organizada através de seu próprio ambiente.
+O Trio é um streaming audiovisual, com gestão centralizada em uma pessoa, mas podendo ser distribuída em diversas fontes alternadas, coordenadas por uma ou mais Mixers. É organizada através de seu próprio ambiente.
 
 .. image:: images/tarot/a02.jpg
   :width: 130
@@ -115,7 +115,7 @@ Torna-se Cordão
   :align: center
 
 
-Um canal separado da plataforma utilizada para o Papo será destinada para quem voluntariar-se como Cordão, tendo a tarefa de ajudar a manter o ambiente em segurança e também de servir de "membrana" para a Banda e o Desfile, com algum mecanismo simples de convite ou veto (e.g. 2 pessoas precisam autorizar), ou critério colaborativo.
+Um canal separado da plataforma utilizada para o Papo será destinada para quem voluntariar-se como Cordão, tendo a tarefa de ajudar a manter o ambiente em segurança e também de servir de "membrana" para o Trio e o Bonde Semente, com algum mecanismo simples de convite ou veto (e.g. 2 pessoas precisam autorizar), ou critério colaborativo.
 
 .. image:: images/tarot/a06.jpg
   :width: 130
@@ -124,7 +124,7 @@ Um canal separado da plataforma utilizada para o Papo será destinada para quem 
 .. youtube:: -QPGp7tih_U
   :width: 420
 
-Dentro do Desfile
+Dentro do Bonde Semente
 -----------------
 
 .. image:: images/ox/cow06.jpg
@@ -132,7 +132,7 @@ Dentro do Desfile
   :align: center
 
 
-O Desfile é uma sala de videoconferência, onde as pessoas podem interagir por vídeo e/ou áudio, em paralelo à música da Banda.
+O Bonde Semente é uma sala de videoconferência, onde as pessoas podem interagir por vídeo e/ou áudio, em paralelo à música do Trio.
 
 Suas moderação a princípio é autogerida, mas deve haver protocolos simples de emergência em caso de ataques.
 
@@ -152,9 +152,9 @@ Vendo o Estandarte
   :align: center
 
 
-O Estandarte é a central de organização e planejamento de todo o Blouco, de onde saem os links de organização da Banda, do Cordão.  O link de acesso somente-leitura é colado periodicamente no chat do Desfile.
+O Estandarte é a central de organização e planejamento de todo o Blouco, de onde saem os links de organização do Trio, do Cordão.  O link de acesso somente-leitura é colado periodicamente no chat do Bonde Semente.
 
-Ele é acessado em modo somente-leitura pela Banda e pelo Desfile e ajuda a organizá-los, e acessível com escrita pela Porta-Estandarte.
+Ele é acessado em modo somente-leitura pelo Trio e pelo Bonde Semente e ajuda a organizá-los, e acessível com escrita pela Porta-Estandarte.
 
 As funções do papel de Porta-estandarte são:
 
@@ -200,8 +200,8 @@ A base de início de um Estandarte é uma "senha" de N (a definir) palavras esco
 
 
 - O nome do documento do próximo Estandarte
-- O nome da stream de transmissão da Banda
-- O nome do ambiente do Desfile
+- O nome da stream de transmissão do Trio
+- O nome do ambiente do Bonde Semente
 - Uma arte composta de "visual hashes" / "identicons" relacionados à frase, a imagem-símbolo do próximo Estandarte
 
 .. figure:: images/estandarte.png

@@ -41,7 +41,7 @@
         <mxCell id="gw7C9mPGyJq7LeyiJNif-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="gw7C9mPGyJq7LeyiJNif-24" target="gw7C9mPGyJq7LeyiJNif-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gw7C9mPGyJq7LeyiJNif-24" value="Puxadoras criam o Desfile" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gw7C9mPGyJq7LeyiJNif-24" value="Puxadoras criam o Bonde Semente" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="690" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gw7C9mPGyJq7LeyiJNif-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="gw7C9mPGyJq7LeyiJNif-30" target="gw7C9mPGyJq7LeyiJNif-75">
@@ -62,7 +62,7 @@
         <mxCell id="gw7C9mPGyJq7LeyiJNif-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="gw7C9mPGyJq7LeyiJNif-39" target="gw7C9mPGyJq7LeyiJNif-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gw7C9mPGyJq7LeyiJNif-39" value="Artistas criam a Banda" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gw7C9mPGyJq7LeyiJNif-39" value="Artistas criam o Trio" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="275" y="1030" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gw7C9mPGyJq7LeyiJNif-40" value="Puxadora" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -214,7 +214,7 @@
         <mxCell id="gw7C9mPGyJq7LeyiJNif-145" value="DJ, VJ, público participativo" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="870" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gw7C9mPGyJq7LeyiJNif-146" value="Cuida do Desfile e&lt;br&gt;decide rumo do Blouco" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gw7C9mPGyJq7LeyiJNif-146" value="Cuida do Bonde Semente e&lt;br&gt;decide rumo do Blouco" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="550" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gw7C9mPGyJq7LeyiJNif-147" value="Cuida do Papo e intermedia&amp;nbsp;&lt;br&gt;Banda e Desfile" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -223,7 +223,7 @@
         <mxCell id="gw7C9mPGyJq7LeyiJNif-148" value="Dá bobeira e passa o&lt;br&gt;Blouco na Timeline" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1720" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gw7C9mPGyJq7LeyiJNif-152" value="Empunha o Estandarte junto do Desfile, da Banda e do Cordão" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gw7C9mPGyJq7LeyiJNif-152" value="Empunha o Estandarte junto do Bonde Semente, do Trio e do Cordão" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="420" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gw7C9mPGyJq7LeyiJNif-156" value="Webapp&lt;br&gt;MD5 -&amp;gt; Chave" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">

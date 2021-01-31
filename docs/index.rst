@@ -13,3 +13,9 @@ Documentação do OpenBlouco
    sobre.rst
    criando.rst
    ascendendo.rst
+   porta-estandarte.rst
+   puxadoras.rst
+   artistas.rst
+   passistas.rst
+   cordões.rst
+   incautas.rst

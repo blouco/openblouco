@@ -30,16 +30,16 @@ Ambientes e funções
 
 A **Rua**, ambiente de chegada das **Incautas** no blouco, é uma página web
 simples HTML+CSS que consolide, através de *embeds*, um documento de
-boas vindas, a transmissão da Banda e o acesso ao Papo.
+boas vindas, a transmissão do Trio e o acesso ao Papo.
 
 O **Papo** é o ambiente público de *chat*, onde as **Foliãs** podem assumir qualquer
-apelido e interagir ao som da Banda. Ele é o ambiente inicial de contato
+apelido e interagir ao som do Trio. Ele é o ambiente inicial de contato
 do público externo com quem está dentro do blouco, e é habitado pelas
 Incautas que se aproximam do blouco pela Rua e pelas **Cordões**, que
 fazem a contenção da Rua e o intermédio entre ela e os outros
 ambientes do blouco.
 
-A **Banda**, um *streaming* de áudio e vídeo, é gerida coletivamente pelas **Artistas** em um
+O **Trio**, um *streaming* de áudio e vídeo, é gerida coletivamente pelas **Artistas** em um
 ambiente próprio, e transmite a música e o vídeo guias do blouco.
 
 O **Desfile**, uma sala de videoconferência, congrega as **Passistas** quem quer dançar junto
