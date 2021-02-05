@@ -2,7 +2,7 @@ Colaboradores
 =============
 
 - `volooptaz <https//volooptaz.art>`_
-- ö
+- Elaine
 - `zei <https://github.com/zeivic>`_
 - `mira <https://twitter.com/miramaravilha>`_
 - `bgola <https://github.com/bgola>`_
