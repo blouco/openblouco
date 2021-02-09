@@ -7,8 +7,7 @@ Documentação do OpenBlouco
 ==========================
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Conteúdo:
+   :maxdepth: 2
 
    sobre.rst
    divindades/intro.rst
