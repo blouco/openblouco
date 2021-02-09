@@ -11,19 +11,19 @@ Documentação do OpenBlouco
    :caption: Conteúdo:
 
    sobre.rst
-   funcoes/intro.rst
-   funcoes/incautas.rst
-   funcoes/cordoes.rst
-   funcoes/passistas.rst
-   funcoes/artistas.rst
-   funcoes/puxadoras.rst
-   funcoes/portaestandarte.rst
-   funcoes/blouco.rst
-   ambientes/intro.rst
-   ambientes/estandarte.rst
-   ambientes/bondes.rst
-   ambientes/trio.rst
-   ambientes/papo.rst
-   ambientes/rua.rst
-   funcoes/blouco.rst
+   divindades/intro.rst
+   divindades/incautas.rst
+   divindades/cordoes.rst
+   divindades/passistas.rst
+   divindades/mixers.rst
+   divindades/artistas.rst
+   divindades/puxadoras.rst
+   divindades/portaestandarte.rst
+   divindades/blouco.rst
+   elementos/intro.rst
+   elementos/estandarte.rst
+   elementos/bondes.rst
+   elementos/trio.rst
+   elementos/papo.rst
+   elementos/rua.rst
    hash-folia.rst
