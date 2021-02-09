@@ -7,22 +7,18 @@ Papo 🜁
 IRC / Webchat Freenode
 ----------------------
 
+.. image:: /images/papo.png
+   :align: center
+   :width: 700px
+
 https://webchat.freenode.net/
 
-Pros
-
-- Usa o KiwiIRC que é bem amigável e pode ser embedado na página principal
-- IRC é bem leve e pode ser acessado de outras ferramentas 
-- Estrutura de canais e poderes (voice, op) simples e útil para  as dinâmica do Papo e do - Cordão, além depodper abrigar salas auxiliares para os outros ambientes
-- Contato com a comunidade de software livre
-- Fator nostalgia
-- Fácil de construir bots simples para diversão ou funções úteis dentro da sala.
-
-Contras
-
-- Somente em inglês
+-----
 
 
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/x7g0IBLTFLQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Bots
 ----

@@ -3,13 +3,18 @@
 Artistas ☉
 ==========
 
+.. image:: /images/avatares/artistas.png
+  :align: center
+  :width: 150px
 
 
-.. _Mixers:
+Tocar seus instrumentos
 
-Mixers
-------
+Sets de DJng e/ou VJng
 
-- Recebe Artistas no Trio e coordena suas contribuições
-- Transmite seu mix para o seu Bonde e para a Rua, caso seja a Mixer principal
-- Acessam o Estandarte para consultar as informações
+Para chegar junto basta autenticar-se com os :ref:`Cordões` para ganhar acesso ao :ref:`Camarim`, onde as :ref:`Mixers` e aos :ref:`Bondes` onde as  :ref:`Passistas` estarão assistindo de camarote.
+
+.. _ArtistasPág:
+
+Página das Artistas
+-------------------

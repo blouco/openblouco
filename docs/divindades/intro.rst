@@ -1,7 +1,7 @@
-.. _Funções:
+.. _Divindades:
 
-Funções
-=======
+> Divindades
+============
 
 - :ref:`Incautas`
 - :ref:`Cordões`

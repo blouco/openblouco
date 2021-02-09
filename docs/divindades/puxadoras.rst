@@ -3,6 +3,10 @@
 Puxadoras ♂
 ===========
 
+.. image:: /images/avatares/puxadoras.png
+  :align: center
+  :width: 150px
+
 - Acessam o Estandarte para consultar as informações
 - Abrem e lideram a proteção dos ambientes do Bonde, do Trio e da Rua
 - Consagram Mixers lhes concedendo acesso ao Trio (para produzir) e aos Bondes (para transmitir)

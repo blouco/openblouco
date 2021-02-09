@@ -3,6 +3,10 @@
 Porta-estandarte ♃
 ==================
 
+.. image:: /images/avatares/porta_estandarte.png
+  :align: center
+  :width: 150px
+
 - Gera a chave do :ref:`HashFolia` para criação do :ref:`Estandarte` no início do blouco e durante sua movimentação
 - Mantém o Estandarte atualizado
 - Consagra :ref:`Puxadoras` para (re)criar os ambientes do Bonde Semente, o Trio e o Cordão e conduzir Artistas, Passistas e Cordões através deles

@@ -107,3 +107,13 @@ https://github.com/spacedeck/spacedeck-open
 .. |image6| image:: https://github.com/spacedeck/spacedeck-open/raw/mnt/public/images/sd6-screenshot.png
 
 
+
+.. _Camarim:
+
+Camarim do Trio
+---------------
+
+
+OBS.ninja
+
+LiveApp
