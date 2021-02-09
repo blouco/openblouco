@@ -56,8 +56,14 @@ html_theme = 'alabaster'
 
 html_theme_options = {
     'logo': 'logo.png',
+    'logo_name': 'Segue o Blouco!',
+    'logo_text_align': 'center',
     'github_user': 'blouco',
     'github_repo': 'openblouco',
+    'canonical_url': 'https://open.bloucos.art/',
+    'description': 'O OpenBlouco é um ~padrão~ aberto e colaborativo para a construção de bloucos, uma adaptação livre das dinâmicas de blocos de carnaval autônomos para as ruas da Web.',
+    'description_font_style': 'oblique',
+    'show_relbars': 'true',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
