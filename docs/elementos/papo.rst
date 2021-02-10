@@ -146,13 +146,32 @@ Bots
 
 Bots serão muito bem vindos para utilidades e também para algazarras. Por ser um protocolo bem consolidado e bastante antigo, existe uma variedade grande de pacotes e módulos prontos para implementar bots.
 
+`Make A Retro Chatbot For IRC <https://hackernoon.com/make-a-retro-chatbot-for-irc-3eada517967>`__
+
+
+BotyMcBotface
+^^^^^^^^^^^^^
+
+
+
+    BotyMcBotface (because what else can you name a bot, really?) is a simple
+    IRC bot skeleton inspired by the tutorial at
+    https://pythonspot.com/en/building-an-irc-bot. This skeleton doesn't really
+    do anything; it was designed as an example of how to write a bot that
+    others can build upon.
+
+    https://github.com/enfors/botymcbotface
+
+
+
+
 Sopel
 ^^^^^
 
     Sopel is a simple, easy-to-use, open-source IRC utility bot, written in
     Python. It’s designed to be easy to use, easy to run, and easy to extend.
 
-https://sopel.chat/
+    https://sopel.chat/
 
     Plugin commands
 
@@ -161,11 +180,11 @@ https://sopel.chat/
     documentation, or are using a secondary plugins directory, those plugins
     will not be shown here
 
-https://sopel.chat/usage/commands/
+    https://sopel.chat/usage/commands/
 
     meetbot.py - Sopel Meeting Logger Plugin
 
-https://github.com/sopel-irc/sopel/blob/master/sopel/modules/meetbot.py
+    https://github.com/sopel-irc/sopel/blob/master/sopel/modules/meetbot.py
 
 MeetBot
 ^^^^^^^
@@ -175,26 +194,42 @@ MeetBot
     distinction between meeting-code and IRC-code, so it should be relatively
     easy to port to other bots. It is under the supybot license (3-clause BSD).
 
+    https://wiki.debian.org/MeetBot/
 
-https://wiki.debian.org/MeetBot/
+Bots de cadeia de Markov - Texto gerado por computador
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-dagbot
-^^^^^^
+Algo que é simples e pode ser bem divertido é colocar bots soltando frases de tempos em tempos baseadas em cadeias de Markov (como autocompletar do celular).
+
+Aqui um exemplo de texto gerado por essa `ferramenta online
+<https://projects.haykranen.nl/markov/demo/>`__ usando algumas letras de
+marchinha:
+
+.. image:: /images/elementos/papo/markov_marchinha.png
+   :align: center
+   :width: 400px
+
+Programando diretamente é possível fazer o bot cuspir conteúdos mais elaborados, começando com uma determinada palavra por exemplo, ou alimentar ele usando o conteúdo já presente no chat. Também é possível fazer com que isso aconteça de tempos em tempos, ou acionado por um comando por mensagem.
+
+
+
+Duas ferramentas para criar bots de Markov para o IRC facilmente:
+
+**dagbot:**
 
     An IRC Markov Chain chatbot with a simple pluggable command system using
     Python 3.6. [...] Commands have a very simple interface which tell the bot
     what keywords are triggers & what class should handle said keywords.
 
-https://github.com/anirbanmu/dagbot
+    https://github.com/anirbanmu/dagbot
 
 
-markov-irc
-^^^^^^^^^^
+**markov-irc:**
 
     IRC bot with text generation based on Markov property. A Redis database is
     used to store words.
 
-https://github.com/miedzinski/markov-irc
+    https://github.com/miedzinski/markov-irc
 
 CloudBot
 ^^^^^^^^

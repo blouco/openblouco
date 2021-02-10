@@ -140,8 +140,52 @@ O próprio Jitsi, em uma sala separada dos :ref:`Bondes` e de acesso restrito à
 
     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/y5Y4k-5PpYs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Pelo LiveLab
-^^^^^^^^^^^^
+
+.. _DinâmicasTrio:
+Dinâmicas para Trio <-> Artistas
+--------------------------------
+
+
+As ferramentas colaborativas documentadas no :ref:`Trio` podem ser usadas para diversas dinâmicas online para fazer as pessoas interagirem.
+
+Concursos
+^^^^^^^^^
+
+
+    Propõe uma dinâmica que envolve um APRESENTADOR e
+    múltiplos canais conectados ao OBS, como por exemplo,
+    um concurso de marchinhas: Todos os participantes
+    devem enviar sua incrição e prepararem para a
+    apresentação de sua performance via Jamulus. Durante a
+    performance, será exibida a performance ao vivo e a
+    receptividade do Trio. Ao final, todos que estão na
+    página do bloco podem votar na sua marchinha preferida
+    via CHAT
+
+Karaoke Sonobus
+^^^^^^^^^^^^^^^
+
+O Sonobus, Jamulus, Mumble ou outra das ferramentas de colaboração por áudio que lidam com a latência, entre pessoas próximas e com uma conexão razoável de Internet, podem ser usadas para testar um Karaoke coletivo.
+
+
+
+Tecladinhos em tempo real
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Embora tenha uma limitação de instrumentos, o Jamhub e o Shared Piano descritos
+abaixo uma opção muito boa para tocar junto de forma simples.
+
+É possível conectar teclados MIDI em vez de usar o teclado.
+
+
+
+Plataformas para performance colaborativa
+-----------------------------------------
+
+Uma lista de outras plataformas possíves de serem usadas como Camarim /  pelo :ref:`Blouco` para congregar :ref:`Artistas` e ter o resultado transmitido pelo Trio.
+
+LiveLab
+^^^^^^^
 
 |image5|
 
@@ -161,14 +205,6 @@ https://ojack.xyz/LiveLab (mantém versão mais recente)
     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/a3yg0bbbNtM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
-
-
-
-
-Outras plataformas para performance colaborativa
-------------------------------------------------
-
-Uma lista de outras plataformas possíves de serem usadas como Camarim /  pelo :ref:`Blouco` para congregar :ref:`Artistas` e ter o resultado transmitido pelo Trio.
 
 Sonobus
 ^^^^^^^

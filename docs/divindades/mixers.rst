@@ -12,12 +12,7 @@ A face oculta dos :ref:`Artistas`, as Mixers recebem outras Artistas no :ref:`Tr
 
 Transmite seu mix para os :ref:`Bondes`, com a cooperação de alguém da sala que compartilhe sua transmissão, e para :ref:`IncautasPág` com auxílio das :ref:`Puxadoras`.
 
-Acessam o Estandarte para consultar as informações
-
-
-- OBS Studio, OBS Streamlabs
-
-- Stream do Youtube preferencialmente (pode ser embedada facilmente no Jitsi)
+Acessam o :ref:`Estandarte` para consultar as informações sobre o andamento do :ref:`Blouco`.
 
 
 .. _MixersPág:
@@ -25,37 +20,5 @@ Acessam o Estandarte para consultar as informações
 Página das Mixers
 -----------------
 
-A Mixer pode transmitir e coordenar com a colaborações de outras artistas através do OBS.ninja, que torna colaborar tão simples quanto abrir um link no celular e compartilhar o microfone.
+A Mixer pode transmitir e coordenar com a colaborações de outras :ref:`Artistas` através do OBS.ninja, que torna colaborar tão simples quanto abrir um link no celular e compartilhar o microfone, ou outras ferramentas descritas na página do :ref:`Trio`.
 
-
-Dinâmicas para Trio <-> Artistas
---------------------------------
-
-
-As ferramentas colaborativas documentadas no :ref:`Trio` podem ser usadas para diversas dinâmicas online para fazer as pessoas interagirem.
-
-Concursos
-^^^^^^^^^
-
-
-    Propõe uma dinâmica que envolve um APRESENTADOR e
-    múltiplos canais conectados ao OBS, como por exemplo,
-    um concurso de marchinhas: Todos os participantes
-    devem enviar sua incrição e prepararem para a
-    apresentação de sua performance via Jamulus. Durante a
-    performance, será exibida a performance ao vivo e a
-    receptividade do Trio. Ao final, todos que estão na
-    página do bloco podem votar na sua marchinha preferida
-    via CHAT
-
-Karaoke Sonobus
-^^^^^^^^^^^^^^^
-
-O Sonobus ou outra das ferramentas de colaboração por áudio que lidam com a latência, entre pessoas próximas e com uma conexão razoável de Internet, podem ser usadas para testar um Karaoke coletivo.
-
-
-
-jamhub
-^^^^^^
-
-Embora tenha uma limitação de instrumentos, o :ref:`jamhub` é uma opção muito 
