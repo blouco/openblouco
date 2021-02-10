@@ -1,6 +1,6 @@
 .. _Puxadoras:
 
-Puxadoras ♂
+♂ Puxadoras
 ===========
 
 .. image:: /images/avatares/puxadoras.png

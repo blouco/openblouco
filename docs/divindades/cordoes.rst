@@ -1,6 +1,6 @@
 .. _Cordões:
 
-Cordões ☿
+☿ Cordões
 =========
 
 .. image:: /images/avatares/cordoes.png

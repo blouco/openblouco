@@ -1,6 +1,6 @@
 .. _Passistas:
 
-Passistas ♀
+♀ Passistas
 ===========
 
 .. image:: /images/avatares/passistas.png

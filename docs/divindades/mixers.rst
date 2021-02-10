@@ -1,6 +1,6 @@
 .. _Mixers:
 
-Mixers ☀
+☀ Mixers
 ========
 
 .. image:: /images/avatares/mixers.png

@@ -1,7 +1,7 @@
 .. _Estandarte:
 
-Estandarte ☸
-============
+✨ Estandarte
+=============
 
 
 `Etherpad: como usar o editor de texto

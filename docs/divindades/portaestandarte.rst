@@ -1,6 +1,6 @@
 .. _Porta-estandarte:
 
-Porta-estandarte ♃
+♃ Porta-estandarte
 ==================
 
 .. image:: /images/avatares/porta_estandarte.png

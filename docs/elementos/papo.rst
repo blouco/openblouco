@@ -1,7 +1,7 @@
 .. _Papo:
 
-Papo 🜁
-======
+💨 Papo
+=======
 
 Usaremos um webchat embedável direto nas páginas da :ref:`Rua`, que através dos
 poderes web do KiwiIRC e da rede de IRC Freenode permitirá que possamos falar

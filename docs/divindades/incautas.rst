@@ -1,6 +1,6 @@
 .. _Incautas:
 
-Incautas ☽
+☽ Incautas
 ==========
 
 .. image:: /images/avatares/incautas.png

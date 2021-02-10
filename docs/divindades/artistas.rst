@@ -1,6 +1,6 @@
 .. _Artistas:
 
-Artistas ☉
+☉ Artistas
 ==========
 
 .. image:: /images/avatares/artistas.png

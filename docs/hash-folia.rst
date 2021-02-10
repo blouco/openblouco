@@ -1,7 +1,7 @@
 .. _HashFolia:
 
-HashFolia
-=========
+🔀 HashFolia
+============
 
 O HashFolia é um *webapp* que transforma um texto-base em uma Chave para a criação de um :ref:`Estandarte`, que serve de início para um :ref:`Blouco` e também proporciona sua movimentação através das ruas/ambientes conforme a :ref:`Porta-estandarte` e as :ref:`Puxadoras` julguem necessário.
 

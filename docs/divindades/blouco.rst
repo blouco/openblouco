@@ -1,6 +1,6 @@
 .. _Blouco:
 
-Blouco ♄
+♄ Blouco
 ========
 
 .. image:: /images/avatares/blouco.png
