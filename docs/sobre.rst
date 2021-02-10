@@ -9,11 +9,12 @@ Sobre o OpenBlouco
 
 .. raw:: html
 
-    <center><div style="width: 390px; display: block">
+    <center><div style="width: 445px; display: block">
     <img src="_images/blouco.png" style="float: left; margin-left: 5px;" />
     <img src="_images/porta_estandarte.png" style="float: left; margin-left: 5px;" />
     <img src="_images/puxadoras.png" style="float: left; margin-left: 5px;" />
     <img src="_images/artistas.png" style="float: left; margin-left: 5px;" />
+    <img src="_images/mixers.png" style="float: left; margin-left: 5px;" />
     <img src="_images/passistas.png" style="float: left; margin-left: 5px;" />
     <img src="_images/cordoes.png" style="float: left; margin-left: 5px;" />
     <img src="_images/incautas.png" style="float: left; margin-left: 5px;" />

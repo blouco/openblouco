@@ -3,6 +3,11 @@
 Mixers ☀
 ========
 
+.. image:: /images/avatares/mixers.png
+  :align: center
+  :width: 150px
+
+
 A face oculta dos :ref:`Artistas`, as Mixers recebem outras Artistas no :ref:`Trio`, coordenam suas contribuições e a transmissão para os :ref:`Bondes` e a :ref:`IncautasPág`.
 
 Transmite seu mix para os :ref:`Bondes`, com a cooperação de alguém da sala que compartilhe sua transmissão, e para :ref:`IncautasPág` com auxílio das :ref:`Puxadoras`.
