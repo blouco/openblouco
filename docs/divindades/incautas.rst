@@ -29,3 +29,9 @@ Página das Incautas
 
 - **Doações**: link ou informações para doações para iniciativas ligadas ao Carnaval de Rua, que estão passando por uma crise inédita devido à pandemia de COVID-19.
 
+
+Página em construção:
+
+.. image:: /images/elementos/rua/rua_incautas_peq.png
+  :align: center
+  :width: 400px
