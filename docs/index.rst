@@ -8,9 +8,9 @@ Documentação do OpenBlouco
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
 
    sobre.rst
-   divindades/intro.rst
    divindades/incautas.rst
    divindades/cordoes.rst
    divindades/passistas.rst
@@ -19,10 +19,9 @@ Documentação do OpenBlouco
    divindades/puxadoras.rst
    divindades/portaestandarte.rst
    divindades/blouco.rst
-   elementos/intro.rst
+   hash-folia.rst
    elementos/estandarte.rst
    elementos/bondes.rst
    elementos/trio.rst
    elementos/papo.rst
    elementos/rua.rst
-   hash-folia.rst
