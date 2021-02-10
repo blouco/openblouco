@@ -6,6 +6,22 @@ Sobre o OpenBlouco
 .. image:: /images/chave.png
   :align: center
 
+
+.. raw:: html
+
+    <center><div style="width: 390px; display: block">
+    <img src="_images/blouco.png" style="float: left; margin-left: 5px;" />
+    <img src="_images/porta_estandarte.png" style="float: left; margin-left: 5px;" />
+    <img src="_images/puxadoras.png" style="float: left; margin-left: 5px;" />
+    <img src="_images/artistas.png" style="float: left; margin-left: 5px;" />
+    <img src="_images/passistas.png" style="float: left; margin-left: 5px;" />
+    <img src="_images/cordoes.png" style="float: left; margin-left: 5px;" />
+    <img src="_images/incautas.png" style="float: left; margin-left: 5px;" />
+    </div></center>
+    <p style="clear: both; margin-bottom: 50px;"></p>
+
+
+
 O OpenBlouco é um ~padrão~ aberto e colaborativo para a construção de *bloucos*, uma adaptação livre das dinâmicas de blocos de carnaval autônomos para as ruas da Web.
 
 O `primeiro Blouco`_ sairá no dia 14 de fevereiro, que seria o Carnaval
