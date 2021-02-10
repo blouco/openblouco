@@ -1,7 +1,7 @@
 .. _Trio:
 
-Trio 🜄
-======
+🌊 Trio
+=======
 
 De onde sai a transmissão para a :ref:`IncautasPág` e para os :ref:`Bondes`. Chaves determinadas pelo :ref:`Estandarte`, com abertura das salas necessárias coordenada pelas :ref:`Puxadoras`, uso e manutenção feito pelas :ref:`Mixers` e habitado pelas :ref:`Artistas`.
 
@@ -142,6 +142,7 @@ O próprio Jitsi, em uma sala separada dos :ref:`Bondes` e de acesso restrito à
 
 
 .. _DinâmicasTrio:
+
 Dinâmicas para Trio <-> Artistas
 --------------------------------
 
