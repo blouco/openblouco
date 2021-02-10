@@ -32,11 +32,30 @@ Dinâmicas para Trio <-> Artistas
 --------------------------------
 
 
-Sonobus
-```````
+As ferramentas colaborativas documentadas no :ref:`Trio` podem ser usadas para diversas dinâmicas online para fazer as pessoas interagirem.
 
 Concursos
-`````````
+^^^^^^^^^
 
-> Propõe uma dinâmica que envolve um APRESENTADOR e múltiplos canais conectados ao OBS, como por exemplo, um concurso de marchinhas: Todos os participantes devem enviar sua incrição e prepararem para a apresentação de sua performance via Jamulus. Durante a performance, será exibida a performance ao vivo e a receptividade do Trio (Jitsi). Ao final, todos que estão na página do bloco podem votar na sua marchinha preferida via CHAT (?)
 
+    Propõe uma dinâmica que envolve um APRESENTADOR e
+    múltiplos canais conectados ao OBS, como por exemplo,
+    um concurso de marchinhas: Todos os participantes
+    devem enviar sua incrição e prepararem para a
+    apresentação de sua performance via Jamulus. Durante a
+    performance, será exibida a performance ao vivo e a
+    receptividade do Trio. Ao final, todos que estão na
+    página do bloco podem votar na sua marchinha preferida
+    via CHAT
+
+Karaoke Sonobus
+^^^^^^^^^^^^^^^
+
+O Sonobus ou outra das ferramentas de colaboração por áudio que lidam com a latência, entre pessoas próximas e com uma conexão razoável de Internet, podem ser usadas para testar um Karaoke coletivo.
+
+
+
+jamhub
+^^^^^^
+
+Embora tenha uma limitação de instrumentos, o :ref:`jamhub` é uma opção muito 

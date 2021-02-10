@@ -160,7 +160,9 @@ https://ojack.xyz/LiveLab (mantém versão mais recente)
 
     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/a3yg0bbbNtM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
------
+
+
+
 
 
 Outras plataformas para performance colaborativa
@@ -168,29 +170,57 @@ Outras plataformas para performance colaborativa
 
 Uma lista de outras plataformas possíves de serem usadas como Camarim /  pelo :ref:`Blouco` para congregar :ref:`Artistas` e ter o resultado transmitido pelo Trio.
 
+Sonobus
+^^^^^^^
+.. image:: https://sonobus.net/assets/images/sonobus_screenshot.png
+    :width: 500px
+    :align: center
+
+O Sonobus parece ser o aplicativo para *jams* online que melhor combina praticidade e poder 
 
 
-jamhub
-^^^^^^
+    Streaming de áudio em rede de alta qualidade
 
-|image0|
+    SonoBus é um aplicativo fácil de usar para streaming de
+    áudio ponto a ponto de alta qualidade e baixa latência
+    entre dispositivos pela Internet ou em uma rede
+    local.[22m
 
-https://jamhub.io/
+    Multiusuário, multiplataforma, código aberto,
+    totalmente gratuito.
 
-   Jam with friends online - tool for online music collaboration - midi
-   support - low-latency - good-sound instruments & drums - free Create
-   and share the link with friends
+    Basta escolher um nome de grupo exclusivo (com senha
+    opcional) e conectar instantaneamente várias pessoas
+    para fazer música, sessões remotas, podcasts, etc.
+    Grave facilmente o áudio de todos, bem como reproduza
+    qualquer conteúdo de áudio para todo o grupo.
+
+
+.. raw:: html
+
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Z1qxi80GjRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/96mW62ISECY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 jamulus.io
 ^^^^^^^^^^
 
 |image1|
 
+    Jamulus - Toque música online. Com amigos. De graça. -
+    Jamulus é um software de código aberto que permite aos
+    músicos tocar, ensaiar ou apenas tocar, tudo em tempo real
+    pela Internet.
+
 https://jamulus.io/
 
-   Jamulus ‒ Play music online. With friends. For free. - Jamulus is
-   open source software which enables musicians to perform music,
-   rehearse or just jam, all in real time over the Internet.
+.. raw:: html
+
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1VbrIU4fZxA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/F7BTDAjcElw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
 
 NINJAM
 ^^^^^^
@@ -217,22 +247,44 @@ https://www.mumble.info
    Mumble is a free, open source, low latency, high quality voice chat
    application.
 
-Spacedeck Open
-^^^^^^^^^^^^^^
 
-|image6|
 
-https://github.com/spacedeck/spacedeck-open
+.. _jamhub:
 
-   This is the free and open source version of Spacedeck, a web based,
-   real time, collaborative whiteboard application with rich media
-   support. Spacedeck was developed in 6 major releases during Autumn
-   2011 until the end of 2016 and was originally a commercial SaaS.
+jamhub
+^^^^^^
+
+|image0|
+
+
+O Jamhub permite criar salas com link compartilhável para tocar facilmente junto com outras pessoas através da Web, com som saindo de todas as caixas ao mesmo tempo -- o que permite sincronia que uma sala de áudio não permitiria.
+
+   Jam with friends online - tool for online music
+   collaboration - midi support - low-latency - good-sound
+   instruments & drums - free Create and share the link
+   with friends
+
+https://jamhub.io/
+
+
+
+Shared Piano - Chrome Music Lab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: https://musiclab.chromeexperiments.com/Shared-Piano/social.png
+    :align: center
+    :width: 400px
+
+O Shared Piano do Chrome Music Lab é outra opção de teclado coletivo que por não envolver transmissão de áudio permite tocar junto em tempo real.
+
+    Shared Piano is a simple tool for remote music teaching
+    and collaboration that lets you play music together
+    live on the web.
+
+
+https://musiclab.chromeexperiments.com/Shared-Piano/
 
 .. |image0| image:: https://ph-files.imgix.net/50482dc2-8364-4d3c-8b88-522bda2ff635.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=686.5&h=380&fit=max
 .. |image1| image:: https://i.ytimg.com/vi/c8838jS2g3U/maxresdefault.jpg
 .. |image2| image:: https://www.cockos.com/ninjam/images/ninjamosx.jpg
 .. |image3| image:: https://1.bp.blogspot.com/--jQ6fQoKVaQ/XXY6IE4O4KI/AAAAAAAADR8/Urm2rr-v-CYJ1QXWKbp8jXDCZSIQzfBGwCLcBGAs/w1200-h630-p-k-no-nu/mumble-1-3-0-lite-theme.png
-.. |image6| image:: https://github.com/spacedeck/spacedeck-open/raw/mnt/public/images/sd6-screenshot.png
-
-
