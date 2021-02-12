@@ -5,7 +5,7 @@
 
 ![Imagem representativa dos Elementos (Elementos) e Divindades (Divindades) do Blouco](https://open.bloucos.art/pt_BR/latest/_images/chave.png)
 
-O OpenBlouco é um ~padrão~ aberto e colaborativo para a construção de bloucos, uma adaptação livre das dinâmicas de blocos de carnaval autônomos para as ruas da Web.
+O OpenBlouco é um \~ padrão \~ aberto e colaborativo para a construção de bloucos, uma adaptação livre das dinâmicas de blocos de carnaval autônomos para as ruas da Web.
 
 O [primeiro Blouco](https://blouco.neocities.org/) sairá no dia 14 de fevereiro, que seria o Carnaval 2021 se não fosse a bact… as restrições sociais da COVID-19.
 
