@@ -1,0 +1,9 @@
+{% extends "!layout.html" %}
+{% block extrahead %}
+    <meta property="og:title" content="{{ title|striptags }} — {{ docstitle }}">
+    <meta property="og:image" content="/_static/logo.png">
+    <meta property="og:url" content="https://docs.bloucos.art/">
+    <link rel="shortcut icon" href="/_static/logo.png" />
+    {{ super() }}
+
+{% endblock %}
